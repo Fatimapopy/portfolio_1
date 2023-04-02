@@ -1,0 +1,255 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+@media only screen and (min-width: 576px) {
+    .all_data #mobilemenu{
+      display:none;
+    }
+  }
+
+
+
+
+
+.nav_1{
+    background-color:#2e324de0;
+   
+    
+    
+
+}
+.nav1{
+    color: #fff;
+   
+    
+   
+}
+
+.item:hover .nav1{
+    background-color: #fff;
+    color: #000;
+    border-radius: 5px;
+   
+   
+   
+}
+#head1{
+    margin-bottom: 0px;
+}
+
+
+.item{
+    padding: 10px 30px;
+}
+// section1
+.text1{
+    h1{
+        font-size: 50px;
+    }span{
+        font-size:30px;
+        color: crimson;
+   }
+}
+.content1{
+    background-color: rgb(247, 239, 239);
+    
+}
+// section2
+
+.icon{
+    font-size:70px;
+   justify-content: center;
+}
+h3{
+    span{
+       padding: 10px;
+       border-radius: 10px;
+       background-color: crimson;
+       display: inline;
+    }
+}
+// icon color
+.icon1{
+    color:rgb(227, 76, 38) ;
+}
+.icon2{
+    color:#2196f3;
+}
+.icon3{
+    color: #7c4bcb;
+}
+.icon4{
+    color:#cc6699 ;
+}
+.icon5{
+    color:#8993be;
+}
+.icon6{
+    color: #21759b;
+}
+// all section
+section{
+    text-align: center;
+}
+
+// section4
+.img1{
+    position: relative;
+  
+}
+
+ .content{
+    position: absolute;
+    top:0px;
+    color: #fff;
+    height:100%;
+    width: 100%;
+    padding-top: 100px;
+    
+    
+}a{
+    text-decoration: none;
+    color: red;
+}
+.content:hover {
+    background-color: rgba(48,52,78,0.9);
+   
+    
+   
+}
+.content2{
+    background-color: rgba(48,52,78,0.9);
+
+}
+// scetion5
+.icon11{
+    color:#c6cacc;
+    font-size:20px;}
+  
+    #icon2,#icon3,#icon4{
+      border:1PX solid #c6cacc;
+      padding:4PX;}
+
+    //   section6
+    carousel-cell {
+        max-width:100%;
+       width: 100%; 
+       margin-right: 10px;
+       border-radius: 5px;
+        font-family: 'Cardo';
+   
+     }
+ 
+     .flickity-page-dots {
+       bottom:40px;
+      
+      } 
+      .flickity-page-dots .dot{
+       display: inline-block;
+       background-color: #fff;
+      }
+ 
+      .mohila{
+       width: 100%;
+      
+       height:400px;
+      
+       
+      }
+      .fil{
+        width: 100%; 
+       height: 400px;
+       
+      } 
+      .text5{
+        position: absolute;
+        text-align: center;
+         top:40px; 
+        left:50px ;
+       
+      }
+      .xyz{
+        font-size: 36px;
+          font-family:'cardo';
+          font-style: italic; 
+       
+      }
+      .xyz_1{
+        font-size: 13px;
+        font-family: 'Raleway';
+        font-style: bold;
+       
+       }
+
+       .text7{
+        font-size: 28px;
+        font-family:'raleway';
+        font-style: light;
+        color:#2d3033;
+        text-align: center;
+       }
+       .text8{
+        font-size:13px ;
+        font-family:'Raleway' ;
+        font-style: bold;
+         color: #2d3033;
+         text-align: center;
+         
+       }
+
+       .last_botton{
+          
+        text-align: center;
+        font-size: 13px;
+        font-family:'Raleway' ;
+        font-style: SemiBold;
+      }
+      
+
+    //   footer
+     /* footer */
+     .color{
+        color: #fff;
+        font-size: 14px;
+        font-family:'Raleway ';
+        font-style: bold;
+       
+        
+      }
+      .color_1{
+        background-color:#3a3e64 ;
+
+      }
+      .lorem1{
+        text-align: center;
+        color: #8a8b8c;
+      }
+
+      .row_last{
+      background-color: #313454;
+
+     } 
+     .love2{
+      
+      color:red;
+     }
+   .name{
+    text-align: center;
+        color: #8a8b8c;
+        font-size: 14px;
+        font-family:'Raleway' ;
+   }
+
+
+
+
+
+    
+
+   
+
+
